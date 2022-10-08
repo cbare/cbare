@@ -1,0 +1,2 @@
+- 👋 Hi, I’m J. Christopher Bare aka @cbare
+- 👀 I’m interested in machine learning, natural language processing, healthcare applications, programming languages, and generally way too many things.
